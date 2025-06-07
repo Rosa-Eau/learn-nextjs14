@@ -1,0 +1,25 @@
+{
+  "name": "learn-nextjs14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosa-Eau/learn-nextjs14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rosa-Eau/learn-nextjs14/issues"
+  },
+  "homepage": "https://github.com/Rosa-Eau/learn-nextjs14#readme",
+  "dependencies": {
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

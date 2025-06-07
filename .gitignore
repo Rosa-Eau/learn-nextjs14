@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+.next/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Editor swap/backup files
+*.swp
+*.swo
+*.bak
+*~
+
+# Optional: coverage reports (if using testing)
+coverage/
